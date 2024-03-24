@@ -11,6 +11,20 @@
 		04CFE7AA2BAECA260091456A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7A92BAECA260091456A /* ContentView.swift */; };
 		04CFE7AC2BAECA290091456A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04CFE7AB2BAECA290091456A /* Assets.xcassets */; };
 		04CFE7AF2BAECA290091456A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04CFE7AE2BAECA290091456A /* Preview Assets.xcassets */; };
+		04CFE7BF2BAECAEE0091456A /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7BE2BAECAEE0091456A /* LoginView.swift */; };
+		04CFE7C12BAED12C0091456A /* RegistrationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7C02BAED12C0091456A /* RegistrationView.swift */; };
+		04CFE7C42BAED2C90091456A /* ThreadsTextFieldModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7C32BAED2C90091456A /* ThreadsTextFieldModifier.swift */; };
+		04CFE7C62BAED4720091456A /* ThreadsButtonModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7C52BAED4720091456A /* ThreadsButtonModifier.swift */; };
+		04CFE7C92BAED63E0091456A /* ThreadsTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7C82BAED63E0091456A /* ThreadsTabView.swift */; };
+		04CFE7CD2BAEDA3C0091456A /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7CC2BAEDA3C0091456A /* FeedView.swift */; };
+		04CFE7D22BAEDA9A0091456A /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7D12BAEDA9A0091456A /* ExploreView.swift */; };
+		04CFE7D62BAEDAD70091456A /* ThreadCreationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7D52BAEDAD70091456A /* ThreadCreationView.swift */; };
+		04CFE7DB2BAEDB2F0091456A /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7DA2BAEDB2F0091456A /* ActivityView.swift */; };
+		04CFE7DF2BAEDB4B0091456A /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7DE2BAEDB4B0091456A /* ProfileView.swift */; };
+		04CFE7E12BAEDD0D0091456A /* ThreadCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7E02BAEDD0D0091456A /* ThreadCell.swift */; };
+		04CFE7E42BAF58D80091456A /* CircularProfileImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7E32BAF58D80091456A /* CircularProfileImageView.swift */; };
+		04CFE7E62BAF59570091456A /* UserCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7E52BAF59570091456A /* UserCell.swift */; };
+		04CFE7E92BAFC61D0091456A /* ProfileThreadFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CFE7E82BAFC61D0091456A /* ProfileThreadFilter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,20 @@
 		04CFE7A92BAECA260091456A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		04CFE7AB2BAECA290091456A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04CFE7AE2BAECA290091456A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04CFE7BE2BAECAEE0091456A /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		04CFE7C02BAED12C0091456A /* RegistrationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationView.swift; sourceTree = "<group>"; };
+		04CFE7C32BAED2C90091456A /* ThreadsTextFieldModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadsTextFieldModifier.swift; sourceTree = "<group>"; };
+		04CFE7C52BAED4720091456A /* ThreadsButtonModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadsButtonModifier.swift; sourceTree = "<group>"; };
+		04CFE7C82BAED63E0091456A /* ThreadsTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadsTabView.swift; sourceTree = "<group>"; };
+		04CFE7CC2BAEDA3C0091456A /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
+		04CFE7D12BAEDA9A0091456A /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
+		04CFE7D52BAEDAD70091456A /* ThreadCreationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadCreationView.swift; sourceTree = "<group>"; };
+		04CFE7DA2BAEDB2F0091456A /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
+		04CFE7DE2BAEDB4B0091456A /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		04CFE7E02BAEDD0D0091456A /* ThreadCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadCell.swift; sourceTree = "<group>"; };
+		04CFE7E32BAF58D80091456A /* CircularProfileImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProfileImageView.swift; sourceTree = "<group>"; };
+		04CFE7E52BAF59570091456A /* UserCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserCell.swift; sourceTree = "<group>"; };
+		04CFE7E82BAFC61D0091456A /* ProfileThreadFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileThreadFilter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +79,12 @@
 		04CFE7A62BAECA260091456A /* ThreadsClone */ = {
 			isa = PBXGroup;
 			children = (
-				04CFE7A72BAECA260091456A /* ThreadsCloneApp.swift */,
-				04CFE7A92BAECA260091456A /* ContentView.swift */,
+				04CFE7BA2BAECA620091456A /* App */,
+				04CFE7B92BAECA600091456A /* Core */,
+				04CFE7B82BAECA5E0091456A /* Extension */,
+				04CFE7B72BAECA5D0091456A /* Model */,
+				04CFE7B62BAECA5B0091456A /* Service */,
+				04CFE7B52BAECA540091456A /* Utils */,
 				04CFE7AB2BAECA290091456A /* Assets.xcassets */,
 				04CFE7AD2BAECA290091456A /* Preview Content */,
 			);
@@ -65,6 +97,200 @@
 				04CFE7AE2BAECA290091456A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		04CFE7B52BAECA540091456A /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7C22BAED2900091456A /* ViewModifiers */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		04CFE7B62BAECA5B0091456A /* Service */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		04CFE7B72BAECA5D0091456A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		04CFE7B82BAECA5E0091456A /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		04CFE7B92BAECA600091456A /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7D72BAEDB0D0091456A /* Activity */,
+				04CFE7BB2BAECAB30091456A /* Authentication */,
+				04CFE7E22BAF58B30091456A /* Components */,
+				04CFE7CE2BAEDA7E0091456A /* Explore */,
+				04CFE7CA2BAEDA280091456A /* Feed */,
+				04CFE7DC2BAEDB3A0091456A /* Profile */,
+				04CFE7BC2BAECAC90091456A /* Root */,
+				04CFE7C72BAED5F10091456A /* TabBar */,
+				04CFE7D32BAEDAA50091456A /* ThreadCreation */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		04CFE7BA2BAECA620091456A /* App */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7A72BAECA260091456A /* ThreadsCloneApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		04CFE7BB2BAECAB30091456A /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7BD2BAECADD0091456A /* Views */,
+			);
+			path = Authentication;
+			sourceTree = "<group>";
+		};
+		04CFE7BC2BAECAC90091456A /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7A92BAECA260091456A /* ContentView.swift */,
+			);
+			path = Root;
+			sourceTree = "<group>";
+		};
+		04CFE7BD2BAECADD0091456A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7BE2BAECAEE0091456A /* LoginView.swift */,
+				04CFE7C02BAED12C0091456A /* RegistrationView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		04CFE7C22BAED2900091456A /* ViewModifiers */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7C32BAED2C90091456A /* ThreadsTextFieldModifier.swift */,
+				04CFE7C52BAED4720091456A /* ThreadsButtonModifier.swift */,
+			);
+			path = ViewModifiers;
+			sourceTree = "<group>";
+		};
+		04CFE7C72BAED5F10091456A /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7C82BAED63E0091456A /* ThreadsTabView.swift */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		04CFE7CA2BAEDA280091456A /* Feed */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7CB2BAEDA2C0091456A /* View */,
+			);
+			path = Feed;
+			sourceTree = "<group>";
+		};
+		04CFE7CB2BAEDA2C0091456A /* View */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7CC2BAEDA3C0091456A /* FeedView.swift */,
+				04CFE7E02BAEDD0D0091456A /* ThreadCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		04CFE7CE2BAEDA7E0091456A /* Explore */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7CF2BAEDA870091456A /* View */,
+			);
+			path = Explore;
+			sourceTree = "<group>";
+		};
+		04CFE7CF2BAEDA870091456A /* View */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7D12BAEDA9A0091456A /* ExploreView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		04CFE7D32BAEDAA50091456A /* ThreadCreation */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7D42BAEDACA0091456A /* View */,
+			);
+			path = ThreadCreation;
+			sourceTree = "<group>";
+		};
+		04CFE7D42BAEDACA0091456A /* View */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7D52BAEDAD70091456A /* ThreadCreationView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		04CFE7D72BAEDB0D0091456A /* Activity */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7D82BAEDB130091456A /* View */,
+			);
+			path = Activity;
+			sourceTree = "<group>";
+		};
+		04CFE7D82BAEDB130091456A /* View */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7DA2BAEDB2F0091456A /* ActivityView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		04CFE7DC2BAEDB3A0091456A /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7E72BAFC60D0091456A /* Model */,
+				04CFE7DD2BAEDB3F0091456A /* View */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		04CFE7DD2BAEDB3F0091456A /* View */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7DE2BAEDB4B0091456A /* ProfileView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		04CFE7E22BAF58B30091456A /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7E32BAF58D80091456A /* CircularProfileImageView.swift */,
+				04CFE7E52BAF59570091456A /* UserCell.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		04CFE7E72BAFC60D0091456A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				04CFE7E82BAFC61D0091456A /* ProfileThreadFilter.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +363,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04CFE7DB2BAEDB2F0091456A /* ActivityView.swift in Sources */,
+				04CFE7CD2BAEDA3C0091456A /* FeedView.swift in Sources */,
+				04CFE7D22BAEDA9A0091456A /* ExploreView.swift in Sources */,
+				04CFE7E92BAFC61D0091456A /* ProfileThreadFilter.swift in Sources */,
+				04CFE7C62BAED4720091456A /* ThreadsButtonModifier.swift in Sources */,
+				04CFE7DF2BAEDB4B0091456A /* ProfileView.swift in Sources */,
+				04CFE7C92BAED63E0091456A /* ThreadsTabView.swift in Sources */,
+				04CFE7BF2BAECAEE0091456A /* LoginView.swift in Sources */,
+				04CFE7E42BAF58D80091456A /* CircularProfileImageView.swift in Sources */,
+				04CFE7E62BAF59570091456A /* UserCell.swift in Sources */,
 				04CFE7AA2BAECA260091456A /* ContentView.swift in Sources */,
+				04CFE7E12BAEDD0D0091456A /* ThreadCell.swift in Sources */,
+				04CFE7C42BAED2C90091456A /* ThreadsTextFieldModifier.swift in Sources */,
 				04CFE7A82BAECA260091456A /* ThreadsCloneApp.swift in Sources */,
+				04CFE7C12BAED12C0091456A /* RegistrationView.swift in Sources */,
+				04CFE7D62BAEDAD70091456A /* ThreadCreationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
